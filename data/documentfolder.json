@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Internal",
+    "partner_id": null,
+    "color": "blue",
+    "parent_id": null,
+    "partner_name": null,
+    "id": "69d6f74bb84d8da0fd08dfb4",
+    "created_date": "2026-04-09T00:48:11.131000",
+    "updated_date": "2026-04-09T00:48:11.131000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "name": "2026",
+    "partner_id": null,
+    "color": "blue",
+    "parent_id": "69d57d29b9f50ef2df527523",
+    "partner_name": null,
+    "id": "69d57d476e7001d268edee66",
+    "created_date": "2026-04-07T21:55:19.968000",
+    "updated_date": "2026-04-07T21:55:19.968000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "name": "2025",
+    "partner_id": null,
+    "color": "blue",
+    "parent_id": "69d57d29b9f50ef2df527523",
+    "partner_name": null,
+    "id": "69d57d40ea64ad8fb5abba96",
+    "created_date": "2026-04-07T21:55:12.032000",
+    "updated_date": "2026-04-07T21:55:12.032000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "name": "2024",
+    "partner_id": null,
+    "color": "blue",
+    "parent_id": "69d57d29b9f50ef2df527523",
+    "partner_name": null,
+    "id": "69d57d3768556923b71e7b67",
+    "created_date": "2026-04-07T21:55:03.219000",
+    "updated_date": "2026-04-07T21:55:03.219000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "name": "Contracts",
+    "partner_id": null,
+    "color": "blue",
+    "parent_id": null,
+    "partner_name": null,
+    "id": "69d57d29b9f50ef2df527523",
+    "created_date": "2026-04-07T21:54:49.957000",
+    "updated_date": "2026-04-07T21:54:49.957000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  }
+]
