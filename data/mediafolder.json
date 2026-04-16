@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Property Photos",
+    "partner_id": null,
+    "color": "blue",
+    "parent_id": "69d904fdb606c742b4d375f2",
+    "partner_name": null,
+    "id": "69d9050bb0d324a3f5f3a1ca",
+    "created_date": "2026-04-10T14:11:23.195000",
+    "updated_date": "2026-04-10T14:11:23.195000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "name": "Stay Charlottesville",
+    "partner_id": null,
+    "color": "blue",
+    "parent_id": null,
+    "partner_name": null,
+    "id": "69d904fdb606c742b4d375f2",
+    "created_date": "2026-04-10T14:11:09.946000",
+    "updated_date": "2026-04-10T14:11:09.946000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "name": "Brightside House",
+    "partner_id": null,
+    "color": "blue",
+    "parent_id": "69d57e39830afdddd68f1f21",
+    "partner_name": null,
+    "id": "69d9048229530e6bb613457a",
+    "created_date": "2026-04-10T14:09:06.391000",
+    "updated_date": "2026-04-10T14:09:06.391000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "name": "Brand Assets",
+    "partner_id": null,
+    "color": "blue",
+    "parent_id": "69d57e2e8c5891288695f7f1",
+    "partner_name": null,
+    "id": "69d57e4611a39828b010eaa1",
+    "created_date": "2026-04-07T21:59:34.511000",
+    "updated_date": "2026-04-07T21:59:34.511000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "name": "Property Photos",
+    "partner_id": null,
+    "color": "blue",
+    "parent_id": "69d57e2e8c5891288695f7f1",
+    "partner_name": null,
+    "id": "69d57e39830afdddd68f1f21",
+    "created_date": "2026-04-07T21:59:21.931000",
+    "updated_date": "2026-04-07T21:59:21.931000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "name": "Sea Mountain Vacations",
+    "partner_id": null,
+    "color": "blue",
+    "parent_id": null,
+    "partner_name": null,
+    "id": "69d57e2e8c5891288695f7f1",
+    "created_date": "2026-04-07T21:59:10.198000",
+    "updated_date": "2026-04-07T21:59:10.198000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  }
+]
