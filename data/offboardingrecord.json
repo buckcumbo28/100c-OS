@@ -1,0 +1,62 @@
+[
+  {
+    "contract_end_date": "Completed",
+    "reason": "No longer exclusive partner to the destination, no bookings, no communication",
+    "time_with_us": "",
+    "partner_name": "Mainsail Vacation Rentals",
+    "our_brand_removed": "No",
+    "offboarding_email_sent": "Yes",
+    "taken_off_site": "Yes",
+    "id": "69d90680a0fb7f248d79f2df",
+    "created_date": "2026-04-10T14:17:36.100000",
+    "updated_date": "2026-04-10T14:17:36.100000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "contract_end_date": "2026-07-21",
+    "reason": "Not performing as far as bookings go - compared us to other channels that have more bookings/volume, other OTAs that we're not trying to compete with",
+    "time_with_us": "1 year",
+    "partner_name": "Stay in Tamarindo",
+    "our_brand_removed": "No",
+    "offboarding_email_sent": "Yes",
+    "taken_off_site": "No",
+    "id": "69d90680a0fb7f248d79f2e0",
+    "created_date": "2026-04-10T14:17:36.100000",
+    "updated_date": "2026-04-10T14:23:40.923000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "contract_end_date": "2026-07-15",
+    "reason": "Can't afford it right now - may be back",
+    "time_with_us": "",
+    "partner_name": "Red Rock Vacation Rentals",
+    "our_brand_removed": "No",
+    "offboarding_email_sent": "No",
+    "taken_off_site": "No",
+    "id": "69d90680a0fb7f248d79f2e1",
+    "created_date": "2026-04-10T14:17:36.100000",
+    "updated_date": "2026-04-10T14:17:36.100000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "contract_end_date": "2026-10-05",
+    "reason": "Not generating enough traffic",
+    "time_with_us": "",
+    "partner_name": "Oceanfront Cottage Rentals",
+    "our_brand_removed": "No",
+    "offboarding_email_sent": "Yes",
+    "taken_off_site": "No",
+    "id": "69d90680a0fb7f248d79f2e2",
+    "created_date": "2026-04-10T14:17:36.100000",
+    "updated_date": "2026-04-10T14:17:36.100000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  }
+]
