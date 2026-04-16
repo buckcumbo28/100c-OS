@@ -1,0 +1,62 @@
+[
+  {
+    "note_type": "call_note",
+    "partner_id": "69aee2fc78eba1a07aff4f7c",
+    "partner_name": "Oceanview Retreats",
+    "title": "Q1 Strategy Call",
+    "body": "Discussed expanding portfolio to include 2 new properties in South Beach. Sarah mentioned interest in premium tier services. Follow up in March.",
+    "property_id": null,
+    "property_name": null,
+    "id": "69aee33178eba1a07aff4f9e",
+    "created_date": "2026-03-09T15:11:45.778000",
+    "updated_date": "2026-03-09T15:11:45.778000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "note_type": "relationship_note",
+    "partner_id": "69aee2fc78eba1a07aff4f7d",
+    "partner_name": "Mountain Luxe Properties",
+    "title": "Onboarding Progress Update",
+    "body": "James is working on getting property photos. Photographer scheduled for mid-March. Snowpeak Lodge still needs interior staging before photos.",
+    "property_id": null,
+    "property_name": null,
+    "id": "69aee33178eba1a07aff4f9f",
+    "created_date": "2026-03-09T15:11:45.778000",
+    "updated_date": "2026-03-09T15:11:45.778000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "note_type": "issue",
+    "partner_id": "69aee2fc78eba1a07aff4f80",
+    "partner_name": "Coastal Haven Management",
+    "title": "Overdue Payment Follow-up",
+    "body": "Called Lisa about the overdue February invoice. She mentioned a systems migration causing delays. Payment expected by March 10.",
+    "property_id": null,
+    "property_name": null,
+    "id": "69aee33178eba1a07aff4fa0",
+    "created_date": "2026-03-09T15:11:45.778000",
+    "updated_date": "2026-03-09T15:11:45.778000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  },
+  {
+    "note_type": "opportunity",
+    "partner_id": "69aee2fc78eba1a07aff4f7e",
+    "partner_name": "Isla Vida Villas",
+    "title": "Expansion Opportunity",
+    "body": "Maria mentioned she has connections with 3 other property owners in Dorado. Could be a pipeline expansion opportunity for Q2.",
+    "property_id": null,
+    "property_name": null,
+    "id": "69aee33178eba1a07aff4fa1",
+    "created_date": "2026-03-09T15:11:45.778000",
+    "updated_date": "2026-03-09T15:11:45.778000",
+    "created_by_id": "69aee092656fb9813439389c",
+    "created_by": "buck@seamountainvacations.com",
+    "is_sample": false
+  }
+]
